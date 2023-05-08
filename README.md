@@ -2,7 +2,7 @@
 By formal definition, multithreading refers to the ability of a processor to execute multiple threads concurrently, where each thread runs a process. Whereas multiprocessing refers to the ability of a system to run multiple processors concurrently, where each processor can run one or more threads.
 
 <a href="#screenshots">
-<img src="https://github.com/MohamadAbdUlaziz938/threads-processors/blob/master/assets/mutliThreads-multiProcessors.webp" width="300px" height="300px">
+<img src="https://github.com/MohamadAbdUlaziz938/threads-processors/blob/master/assets/mutliThreads-multiProcessors.webp" width="600px" height="400px">
 </a>
 
 From the diagram above, we can see that in multithreading (middle diagram), multiple threads share the same code, data, and files but run on a different register and stack. Multiprocessing (right diagram) multiplies a single processor — replicating the code, data, and files, which incurs more overhead.
